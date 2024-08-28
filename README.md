@@ -19,5 +19,7 @@ optimization.py demonstrates the usage.
 You need [BioPhython](https://biopython.org/) library for the execution.
 
 Contact:
+
 Shoichi Toyabe (Tohoku University, Japan)
+
 toyabe@tohoku.ac.jp
